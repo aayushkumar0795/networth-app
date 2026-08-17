@@ -1,0 +1,3 @@
+# Downloaded backups from the tracker — never commit these here.
+# They contain personal financial data; this repo is PUBLIC.
+networth-*.json
